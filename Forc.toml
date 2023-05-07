@@ -1,0 +1,15 @@
+[workspace]
+members = [
+  'bridgemodule',
+  'balancesheetmodule',
+  'cdpmodule',
+  'dutchauctionliquidator',
+  'emptycollateralmanager',
+  'modulartoken',
+  'pegstabilitymodule',
+  'psmpricesource',
+  'flashmintmodule',
+  'simplebsh',
+  'psmlockup',
+  'leverageproxy'
+]

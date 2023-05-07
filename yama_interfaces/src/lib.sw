@@ -1,0 +1,23 @@
+library interfaces;
+
+dep events;
+dep errors;
+dep balancesheetmodule_abi;
+dep bridgemodule_abi;
+dep bridgereceiver_abi;
+dep cdpmodule_abi;
+dep collateralmanager_abi;
+dep dutchauctionliquidator_abi;
+dep emptycollateralmanager_abi;
+dep liquidator_abi;
+dep modulartoken_abi;
+dep pegstabilitymodule_abi;
+dep pricesource_abi;
+dep psmpricesource_abi;
+dep flashmintmodule_abi;
+dep flashmintborrower_abi;
+dep balancesheethandler_abi;
+dep simplebsh_abi;
+dep psmlockup_abi;
+dep leverageproxy_abi;
+dep swapper_abi;

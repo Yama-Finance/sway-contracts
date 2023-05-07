@@ -1,0 +1,8 @@
+[project]
+authors = ["Ibrahim Ahmed"]
+entry = "main.sw"
+license = "Apache-2.0"
+name = "emptycollateralmanager"
+
+[dependencies]
+yama_interfaces = { path = "../yama_interfaces" }

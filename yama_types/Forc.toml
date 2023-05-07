@@ -1,0 +1,9 @@
+[project]
+authors = ["Ibrahim Ahmed"]
+entry = "lib.sw"
+license = "Apache-2.0"
+name = "yama_types"
+
+[dependencies]
+signed_integers = { git = "https://github.com/FuelLabs/sway-libs", tag="v0.7.1" }
+fixed_point = { git = "https://github.com/FuelLabs/sway-libs", tag="v0.7.1" }

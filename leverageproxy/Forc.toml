@@ -1,0 +1,10 @@
+[project]
+authors = ["Ibrahim Ahmed"]
+entry = "main.sw"
+license = "Apache-2.0"
+name = "leverageproxy"
+
+[dependencies]
+yama_interfaces = { path = "../yama_interfaces" }
+stablecoin_library = { path = "../stablecoin_library" }
+bytes_extended = { path = "../hyperlane_contracts/bytes-extended" }

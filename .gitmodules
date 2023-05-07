@@ -1,0 +1,3 @@
+[submodule "hyperlane_contracts"]
+	path = hyperlane_contracts
+	url = https://github.com/hyperlane-xyz/fuel-contracts.git

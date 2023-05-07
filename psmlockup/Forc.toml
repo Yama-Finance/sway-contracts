@@ -1,0 +1,11 @@
+[project]
+authors = ["Ibrahim Ahmed"]
+entry = "main.sw"
+license = "Apache-2.0"
+name = "psmlockup"
+
+[dependencies]
+yama_interfaces = { path = "../yama_interfaces" }
+yama_types = { path = "../yama_types" }
+stablecoin_library = { path = "../stablecoin_library" }
+fixed_point = { git = "https://github.com/FuelLabs/sway-libs", tag="v0.7.1" }
